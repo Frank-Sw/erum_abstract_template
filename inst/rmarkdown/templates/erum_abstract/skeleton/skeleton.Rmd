@@ -12,6 +12,7 @@ affiliation:
  - Second affiliation of author A
  - Second affiliation of author B
 keywords: First, Second, ... up to 5 keywords
+packages: First, Second, ... up to 5 packages
 bibliography: bibliography.bib
 output: erum::erum_abstract
 ---
