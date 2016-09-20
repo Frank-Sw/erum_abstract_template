@@ -40,12 +40,14 @@
 \vskip 0.3cm
 
 \begin{affiliations}
+$if(affiliation)$
 \begin{enumerate}
 \begin{minipage}{0.915\textwidth}
 \centering
 $for(affiliation)$
 \item $affiliation$ \\[-2pt]
 $endfor$
+$endif$
 \end{minipage}
 \end{enumerate}
 $for(author)$
