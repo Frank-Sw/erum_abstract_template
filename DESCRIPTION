@@ -1,7 +1,7 @@
 Package: erum
 Type: Package
 Title: Abstrat format for eRum conference
-Version: 0.1.1
+Version: 0.1.2
 Date: 2016-05-06
 Authors@R: person("Jakub", "Nowosad", email = "nowosad@amu.edu.pl", role = c("aut", "cre"))
 Description: A custom R Markdown templates, based on rticles package, for
